@@ -17,8 +17,7 @@ Each sub‑directory contains a self‑contained app that can be run locally or 
 
 1. Push your fork or branch to a Git repository connected to Squadbase.
 2. In the Squadbase dashboard, **Add Application → Git** and select the corresponding directory as the build path.
-3. Set any required environment variables in _Settings → Environment_.
-4. Click **Deploy** — Squadbase will provision infra, handle authentication/RBAC, logging, and analytics automatically.
+3. Set any required environment variables in _Environment Variables_.
 
 > **Tip:** Because each app lives in its own directory, you can deploy them as separate projects or combine them under a single multi‑page Streamlit app.
 
