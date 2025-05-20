@@ -1,0 +1,21 @@
+[project]
+name = "exploratory-copilot-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ai-data-science-team>=0.0.0.9016",
+    "asyncio>=3.4.3",
+    "dtale>=3.17.0",
+    "langchain>=0.3.25",
+    "langchain-openai>=0.3.17",
+    "langgraph>=0.4.5",
+    "missingno>=0.5.2",
+    "openai>=1.79.0",
+    "pandas>=2.2.3",
+    "pytimetk>=1.2.3",
+    "sqlalchemy>=2.0.41",
+    "streamlit>=1.45.1",
+    "sweetviz>=2.3.1",
+]
