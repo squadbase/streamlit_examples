@@ -21,11 +21,6 @@ Each sub‑directory contains a self‑contained app that can be run locally or 
 
 > **Tip:** Because each app lives in its own directory, you can deploy them as separate projects or combine them under a single multi‑page Streamlit app.
 
-## License
-
-This repository is released under the **MIT License**.
-Each sub‑project retains the original licence specified by its upstream source.
-
 ## Acknowledgements
 
 The initial set of apps was forked from examples created by the Business‑Science team (see upstream links above). We appreciate their work for offering a solid foundation to showcase AI‑assisted data workflows with Streamlit.

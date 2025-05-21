@@ -138,7 +138,6 @@ with st.expander("Example Questions", expanded=False):
         - Describe the dataset.
         - Analyze missing data in the dataset.
         - Generate a correlation funnel. Use the Churn feature as the target.
-        - Generate a Dtale report for the dataset.
         """
     )
 
